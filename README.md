@@ -45,22 +45,6 @@ To replicate the analysis, ensure the following dependencies are installed:
   - matplotlib
   - seaborn
 
-Install the required libraries using:
-
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-## How to Run the Notebook
-
-1. Clone this repository to your local machine.
-2. Ensure the dataset is available in the expected directory.
-3. Open the `Amazon_EDA_.ipynb` file in Jupyter Notebook:
-   ```bash
-   jupyter notebook Amazon_EDA_.ipynb
-   ```
-4. Execute the cells sequentially to reproduce the analysis.
-
 ## Results
 
 The analysis provides:
@@ -78,6 +62,10 @@ The analysis provides:
 ## Contributing
 
 Contributions are welcome! If you'd like to enhance the analysis or add new features, feel free to fork this repository and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Contact
 
